@@ -1,0 +1,15 @@
+Perspective,Temps,Humidité,Vent,Jogging
+Soleil,Chaud,Haute,Doux,Non
+Soleil,Chaud,Haute,Fort,Non
+Couvert,Chaud,Haute,Doux,Oui
+Pluie,Bon,Haute,Doux,Oui
+Pluie,Frais,Normale,Doux,Oui
+Pluie,Frais,Normale,Fort,Non
+Couvert,Frais,Normale,Fort,Oui
+Soleil,Bon,Haute,Doux,Non
+Soleil,Frais,Normale,Doux,Oui
+Pluie,Bon,Normale,Doux,Oui
+Soleil,Bon,Normale,Fort,Oui
+Couvert,Bon,Haute,Fort,Oui
+Couvert,Chaud,Normale,Doux,Oui
+Pluie,Bon,Haute,Fort,Non
